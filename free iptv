@@ -808,7 +808,7 @@ http://fikrulmkc.my.id/bagus/usee-cartoonnetwork.m3u8
 #EXTINF:0 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL",BABY FIRST
 
 #EXTINF:0 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL",BKIDS
-
+https://cmt.mb13.cyou/uni/a/bkidshd.m3u8
 #EXTINF:0 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL",BOOMERANG
 http://fikrulmkc.my.id/bagus/usee-boomerang.m3u8
 #EXTINF:0 tvg-logo="https://image.freepik.com/free-vector/kids-channel-logo-template_10250-1482.jpg" group-title="KIDS CHANNEL",DUNIA ANAK
@@ -829,7 +829,7 @@ http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144
 http://185.238.0.145:1313/c/a/spacetoon-hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/b-lifestyle.png"group-title="intertaiment",LIFESTYLE
-
+https://cmt.mb13.cyou/uni/a/blifestylehd.m3u8
 #EXTINF:-1 group-title="intertaiment",RTP
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/citra-entertainment.png"group-title="intertaiment",CITRA ENTERTAIMENT
@@ -962,7 +962,7 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.candra.web.id/wp-content/uploads/2020/02/UseeTV.png" group-title="movie",CITRA DRAMA
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/imc.png" group-title="movie",IMC
-
+https://cmt.mb13.cyou/uni/ku/see/uc.MiBiFUN?a=usee-imc&b=14&c=imc&d=b684100
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/imc.png" group-title="movie",IMC Back
 http://fikrulmkc.my.id/bagus/usee-imc.m3u8
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/tv_image/sm/bioskop-indonesia.png" group-title="movie",BIOSKOP INDONESIA
